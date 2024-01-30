@@ -70,5 +70,5 @@ Esta línea es una prueba desde github
 Esta en una prueba de fetch y merge
 
 
-Este en una prueba desde el usuario en la virtualización
+Este en una prueba desde el usuario en la virtualización, segunda prueba esta ves empleando git clone mas la url de ssh
 
