@@ -72,3 +72,17 @@ Esta en una prueba de fetch y merge
 
 Este en una prueba desde el usuario en la virtualización, segunda prueba esta ves empleando git clone mas la url de ssh
 
+Esta es mi parte favorita de la canción:
+
+Porque una casa sin ti es una oficina,
+un teléfono ardiendo en la cabina,
+una palmera en el museo de cera,
+un éxodo de oscurar golondrinas
+
+También me gusta mucho:
+
+Porque una casa sin ti es una embajada
+El pasillo de un tren de madrugada
+Un laberinto sin luz, ni vino tinto
+Un velo de alquitrán en la mirada.
+
