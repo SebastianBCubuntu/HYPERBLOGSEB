@@ -69,7 +69,6 @@ Este es un párrafo de prueba
 Esta línea es una prueba desde github
 Esta en una prueba de fetch y merge
 
-<<<<<<< HEAD
 
 Este en una prueba desde el usuario en la virtualización, segunda prueba esta ves empleando git clone mas la url de ssh
 
@@ -86,7 +85,7 @@ Porque una casa sin ti es una embajada
 El pasillo de un tren de madrugada
 Un laberinto sin luz, ni vino tinto
 Un velo de alquitrán en la mirada.
-=======
+
 esto es un test de ramas secundarias en proyectos de colaboración
->>>>>>> upstream/header
+
 
