@@ -86,6 +86,5 @@ El pasillo de un tren de madrugada
 Un laberinto sin luz, ni vino tinto
 Un velo de alquitrán en la mirada.
 
-esto es un test de ramas secundarias en proyectos de colaboración
-
+Esta es una prueba para trabajo con ramas
 
